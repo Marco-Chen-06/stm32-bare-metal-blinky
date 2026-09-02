@@ -19,4 +19,4 @@ To debug:
 
 
 ## Notes
-The startup file and linker script are from ST. I will work on replacing them with my own minimal ones.
+The startup file and linker script are from ST. Currently working on replacing them with my own minimal ones.
